@@ -1,7 +1,7 @@
 {
-  "name": "svelte-tone",
+  "name": "svelte-template",
   "version": "1.0.0",
-  "description": "Svelte GUI for Tonejs",
+  "description": "Svelte Template",
   "author": "Samuel D. Villegas",
   "main": "webpack.config.js",
   "scripts": {
